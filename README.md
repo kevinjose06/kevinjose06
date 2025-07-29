@@ -3,6 +3,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevin.jose__/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kevin-jose-048713328)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@kevinjose__)
 
 ## 💻 Skills:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)

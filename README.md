@@ -20,7 +20,8 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&theme=dark&hide_border=false&layout=compact&langs_count=10)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kevinjose06&theme=dark&hide_border=false)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kevinjose06&theme=darkhub&no-frame=true)

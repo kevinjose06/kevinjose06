@@ -19,7 +19,7 @@
 
 
 ## 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kevinjose06)
+![GitHub Streak](https://streak-stats.demolab.com?user=kevinjose06&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&theme=dark&hide_border=false&layout=compact&langs_count=10)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kevinjose06&theme=dark&hide_border=false)
 

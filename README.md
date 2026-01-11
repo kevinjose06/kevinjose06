@@ -27,14 +27,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=21600&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=21600&v=1)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kevinjose06&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=kevinjose06&theme=tokyonight&v=1)
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kevinjose06&theme=darkhub&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kevinjose06&theme=darkhub&no-frame=true&margin-w=10&v=1)

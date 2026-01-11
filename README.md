@@ -19,7 +19,7 @@
 
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&theme=dark&hide_border=false&layout=compact&langs_count=10)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kevinjose06&theme=dark&hide_border=false)
 

@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevin.jose__/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-jose-048713328/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevin.jose__/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-jose-048713328/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kevinjose__)
 
 ---
@@ -27,19 +27,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=10&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=86400)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinjose06&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=86400)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kevinjose06&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinjose06&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kevinjose06&theme=darkhub&no-frame=true&margin-w=10)

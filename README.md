@@ -18,10 +18,13 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&theme=dark&hide_border=false&layout=compact&langs_count=10)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kevinjose06&theme=dark&hide_border=false)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=10&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kevinjose06&theme=tokyonight)
 
 
 ## 🏆 GitHub Trophies

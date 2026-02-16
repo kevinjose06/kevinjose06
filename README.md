@@ -19,6 +19,23 @@
 
 🧠 Learning system design fundamentals
 
-🧩 Philosophy
+---
 
-“Consistency beats motivation. Every single time.”
+## ✨ Philosophy
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Consistency+beats+motivation.;Small+improvements+compound.;Discipline+builds+results."/>
+</p>
+
+<p align="center">
+  <i>
+  “I don’t wait to feel motivated.  
+  I show up, write the code, fix the bug,  
+  and improve one commit at a time.”
+  </i>
+</p>
+
+<p align="center">
+  <b>— Kevin Jose</b>
+</p>
+

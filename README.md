@@ -7,7 +7,9 @@
 🛠 Tools & Platforms
 <p> <img src="https://skillicons.dev/icons?i=git,github,bash,android,apple" /> </p>
 📈 GitHub Analytics
-<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=kevinjose06&theme=github-dark-blue&hide_border=true"/> </p>
+<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+ </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=kevinjose06&theme=github-dark-blue&hide_border=true"/> </p>
 
 # 🎯 Current Focus
 

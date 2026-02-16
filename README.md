@@ -9,15 +9,52 @@
 📈 GitHub Analytics
 <p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=kevinjose06&theme=github-dark-blue&hide_border=true"/> </p>
 
-📌 What I’m Focused On
+# 🎯 Current Focus
 
-📚 Strengthening Data Structures & Algorithms
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f1c2c,100:928DAB&height=140&section=header&text=Building%20Depth.%20Not%20Just%20Syntax.&fontSize=28&fontColor=ffffff"/>
+</p>
 
-⚙️ Building full-stack projects
+<table align="center">
+<tr>
+<td width="50%">
 
-🔍 Writing cleaner, more efficient code
+### 📚 DSA Mastery  
+- Advanced problem solving  
+- Optimizing time & space complexity  
+- Pattern recognition across problems  
 
-🧠 Learning system design fundamentals
+</td>
+<td width="50%">
+
+### ⚙️ Full-Stack Development  
+- Designing scalable backends  
+- Clean API architecture  
+- Structured frontend workflows  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔍 Code Quality  
+- Writing readable, maintainable code  
+- Refactoring aggressively  
+- Eliminating unnecessary complexity  
+
+</td>
+<td width="50%">
+
+### 🧠 System Design  
+- Understanding real-world architectures  
+- Learning trade-offs  
+- Thinking beyond single programs  
+
+</td>
+</tr>
+</table>
+
 
 ---
 

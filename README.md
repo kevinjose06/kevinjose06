@@ -1,41 +1,26 @@
-## Hi there 👋
+🧠 Kevin Jose
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Kevin%20Jose&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> </p> <p align="center"> <b>B.Tech Computer Science Student</b> <br/> Building systems. Breaking bugs. Learning in public. </p>
+🔗 Connect With Me
+<p align="center"> <a href="https://www.instagram.com/kevin.jose__/"> <img src="https://img.shields.io/badge/Instagram-1f1f1f?style=for-the-badge&logo=instagram&logoColor=E4405F"/> </a> <a href="https://www.linkedin.com/in/kevin-jose-048713328/"> <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="https://x.com/kevinjose__"> <img src="https://img.shields.io/badge/X-1f1f1f?style=for-the-badge&logo=x&logoColor=white"/> </a> </p>
+🚀 Tech Stack
+💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=java,python,c,html,latex" /> </p>
+🛠 Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,bash,android,apple" /> </p>
+📈 GitHub Analytics
+<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=kevinjose06&theme=github-dark-blue&hide_border=true"/> </p>
+🏆 Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kevinjose06&theme=onedark&no-frame=true&margin-w=12&column=7"/> </p>
+📌 What I’m Focused On
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevin.jose__/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-jose-048713328/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kevinjose__)
+📚 Strengthening Data Structures & Algorithms
 
----
+⚙️ Building full-stack projects
 
-## 💻 Skills
+🔍 Writing cleaner, more efficient code
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+🧠 Learning system design fundamentals
 
-### Tools & Platforms
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+🧩 Philosophy
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=21600&v=1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=21600&v=1)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kevinjose06&theme=tokyonight&v=1)
-
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kevinjose06&theme=darkhub&no-frame=true&margin-w=10&v=1)
+“Consistency beats motivation. Every single time.”

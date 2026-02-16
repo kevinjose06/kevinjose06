@@ -10,7 +10,8 @@
 📈 GitHub Analytics
 <p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=kevinjose06&theme=github-dark-blue&hide_border=true"/> </p>
 🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kevinjose06&theme=onedark&no-frame=true&margin-w=12&column=7"/> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=kevinjose06&theme=flat&no-frame=true&margin-w=8&column=4"/>
+
 📌 What I’m Focused On
 
 📚 Strengthening Data Structures & Algorithms

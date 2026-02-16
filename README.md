@@ -7,7 +7,7 @@
 🛠 Tools & Platforms
 <p> <img src="https://skillicons.dev/icons?i=git,github,bash,android,apple" /> </p>
 ⚙️ Frameworks & Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,bash,git,github" />
 </p>
 📈 GitHub Analytics

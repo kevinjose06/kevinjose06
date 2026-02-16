@@ -3,9 +3,13 @@
 <p align="center"> <a href="https://www.instagram.com/kevin.jose__/"> <img src="https://img.shields.io/badge/Instagram-1f1f1f?style=for-the-badge&logo=instagram&logoColor=E4405F"/> </a> <a href="https://www.linkedin.com/in/kevin-jose-048713328/"> <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="https://x.com/kevinjose__"> <img src="https://img.shields.io/badge/X-1f1f1f?style=for-the-badge&logo=x&logoColor=white"/> </a> </p>
 🚀 Tech Stack
 💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=java,python,c,html,latex" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=java,python,c,html,javascript,typescript,latex" /> </p>
 🛠 Tools & Platforms
 <p> <img src="https://skillicons.dev/icons?i=git,github,bash,android,apple" /> </p>
+⚙️ Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,bash,git,github" />
+</p>
 📈 GitHub Analytics
 <p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400"/>

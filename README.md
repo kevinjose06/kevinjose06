@@ -1,84 +1,125 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Kevin%20Jose&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> </p> <p align="center"> <b>B.Tech Computer Science Student</b> <br/> Building systems. Breaking bugs. Learning in public. </p>
-🔗 Connect With Me
-<p align="center"> <a href="https://www.instagram.com/kevin.jose__/"> <img src="https://img.shields.io/badge/Instagram-1f1f1f?style=for-the-badge&logo=instagram&logoColor=E4405F"/> </a> <a href="https://www.linkedin.com/in/kevin-jose-048713328/"> <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="https://x.com/kevinjose__"> <img src="https://img.shields.io/badge/X-1f1f1f?style=for-the-badge&logo=x&logoColor=white"/> </a> </p>
-🚀 Tech Stack
-💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=java,python,c,html,javascript,typescript,latex" /> </p>
-🛠 Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,bash,android,apple" /> </p>
-⚙️ Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,bash,git,github" />
-</p>
-📈 GitHub Analytics
-<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400"/>
- </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=kevinjose06&theme=github-dark-blue&hide_border=true"/> </p>
+<div align="center">
 
-# 🎯 Current Focus
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:0f3460,100:16213e&height=220&section=header&text=Kevin%20Jose&fontSize=55&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=B.Tech%20Computer%20Science%20%E2%80%94%20RIT&descSize=17&descColor=a8b2d8&descAlignY=60"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f1c2c,100:928DAB&height=140&section=header&text=Building%20Depth.%20Not%20Just%20Syntax.&fontSize=28&fontColor=ffffff"/>
-</p>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+systems.+Breaking+bugs.;Learning+in+public.;One+commit+at+a+time.)](https://git.io/typing-svg)
+
+<br/>
+
+## 🔗 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020818?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/kevin-jose-048713328/)
+[![Instagram](https://img.shields.io/badge/Instagram-020818?style=for-the-badge&logo=instagram&logoColor=00d4ff)](https://www.instagram.com/kevin.jose__/)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-020818?style=for-the-badge&logo=x&logoColor=00d4ff)](https://x.com/kevinjose__)
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript,html&theme=dark"/>
+
+<br/><br/>
+
+**Frameworks & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql&theme=dark"/>
+
+<br/><br/>
+
+**Tools & Environment**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode&theme=dark"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&bg_color=020818"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=a8b2d8&bg_color=020818"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kevinjose06&theme=tokyonight&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&background=020818&dates=a8b2d8&sideLabels=a8b2d8"/>
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kevinjose06&theme=tokyo-night&bg_color=020818&color=00d4ff&line=0f3460&point=00d4ff&hide_border=true&area=true&area_color=0f3460"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020818,100:0f3460&height=60&text=Building+Depth.+Not+Just+Syntax.&fontSize=22&fontColor=00d4ff"/>
+
+</div>
+
+<br/>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 DSA Mastery  
-- Advanced problem solving  
-- Optimizing time & space complexity  
-- Pattern recognition across problems  
+**📚 DSA Mastery**
+- Advanced problem solving
+- Optimising time & space complexity
+- Pattern recognition across problems
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Full-Stack Development  
-- Designing scalable backends  
-- Clean API architecture  
-- Structured frontend workflows  
+**⚙️ Full-Stack Development**
+- Designing scalable backends
+- Clean API architecture
+- Structured frontend workflows
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔍 Code Quality  
-- Writing readable, maintainable code  
-- Refactoring aggressively  
-- Eliminating unnecessary complexity  
+**🔍 Code Quality**
+- Writing readable, maintainable code
+- Refactoring aggressively
+- Eliminating unnecessary complexity
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 System Design  
-- Understanding real-world architectures  
-- Learning trade-offs  
-- Thinking beyond single programs  
+**🧠 System Design**
+- Understanding real-world architectures
+- Learning trade-offs
+- Thinking beyond single programs
 
 </td>
 </tr>
 </table>
 
-
 ---
 
-## ✨ Philosophy
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Consistency+beats+motivation.;Small+improvements+compound.;Discipline+builds+results."/>
-</p>
+## ✨ Mindset
 
-<p align="center">
-  <i>
-  “I don’t wait to feel motivated.  
-  I show up, write the code, fix the bug,  
-  and improve one commit at a time.”
-  </i>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Consistency+beats+motivation.;Small+improvements+compound.;Discipline+builds+results.;Show+up.+Write+the+code.+Fix+the+bug.)](https://git.io/typing-svg)
 
-<p align="center">
-  <b>— Kevin Jose</b>
-</p>
+<br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,60:16213e,100:020818&height=130&section=footer"/>
+
+</div>

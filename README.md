@@ -21,18 +21,29 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-Languages  |  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript,html&theme=dark&perline=6"/>
-
-Frameworks & Backend  |  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark&perline=6"/>
-
-Databases & Cloud  |  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,docker&theme=dark&perline=6"/>
-
-UI & Build Tools  |  <img src="https://skillicons.dev/icons?i=tailwind,vite&theme=dark&perline=6"/>
-
-Tools & Environment  |  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode&theme=dark&perline=6"/>
-
+<table>
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript,html&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,docker&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>UI & Build</b></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind,vite&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode&theme=dark"/></td>
+  </tr>
+</table>
 </div>
-
 ---
 
 ## 📊 GitHub Analytics

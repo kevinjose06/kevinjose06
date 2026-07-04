@@ -49,18 +49,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinjose06&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=a8b2d8&bg_color=020818"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjose06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=a8b2d8&bg_color=020818"/>
-
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinjose06&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinjose06&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevinjose06&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevinjose06&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kevinjose06&theme=tokyonight&utcOffset=5.5"/>
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=kevinjose06&theme=tokyonight&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&background=020818&dates=a8b2d8&sideLabels=a8b2d8"/>
-
+<img src="https://streak-stats.demolab.com?user=kevinjose06&theme=tokyonight&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&dates=a8b2d8&sideLabels=a8b2d8"/>
 <br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kevinjose06&theme=tokyo-night&bg_color=020818&color=00d4ff&line=0f3460&point=00d4ff&hide_border=true&area=true&area_color=0f3460"/>
-
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kevinjose06&theme=tokyo-night&color=00d4ff&line=0f3460&point=00d4ff&hide_border=true&area=true&area_color=0f3460"/>
 </div>
 
 ---

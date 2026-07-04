@@ -61,54 +61,14 @@
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I'm Actually Working On
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020818,100:0f3460&height=60&text=Building+Depth.+Not+Just+Syntax.&fontSize=22&fontColor=00d4ff"/>
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**📚 DSA Mastery**
-- Advanced problem solving
-- Optimising time & space complexity
-- Pattern recognition across problems
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Full-Stack Development**
-- Designing scalable backends
-- Clean API architecture
-- Structured frontend workflows
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔍 Code Quality**
-- Writing readable, maintainable code
-- Refactoring aggressively
-- Eliminating unnecessary complexity
-
-</td>
-<td width="50%" valign="top">
-
-**🧠 System Design**
-- Understanding real-world architectures
-- Learning trade-offs
-- Thinking beyond single programs
-
-</td>
-</tr>
-</table>
+| Area | What that means for me |
+|------|------------------------|
+| 🤖 Machine Learning | Not just tutorials — organizing & running ML workshops for students at RIT |
+| 🌐 Full-Stack | Python/Node backends, React frontends. Building things end-to-end, not just one layer |
+| 📡 Student Tech Community | Running internship outreach & tech programs at Internship Cell, RIT |
+| 🧩 DSA | Grinding patterns, not just problems — LC medium is the current benchmark |
 
 ---
 

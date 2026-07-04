@@ -65,11 +65,10 @@
 
 | Area | What that means for me |
 |------|------------------------|
-| 🤖 Machine Learning | Not just tutorials — organizing & running ML workshops for students at RIT |
-| 🌐 Full-Stack | Python/Node backends, React frontends. Building things end-to-end, not just one layer |
+| 🧠 Computer Science | Digging into the fundamentals that make modern software work, from algorithms to operating systems |
+| 🔬 Problem Solving | I enjoy breaking complex problems into elegant, practical solutions rather than chasing the latest framework |
 | 📡 Student Tech Community | Running internship outreach & tech programs at Internship Cell, RIT |
-| 🧩 DSA | Grinding patterns, not just problems — LC medium is the current benchmark |
-
+| 🌍 Real-World Impact | Building technology that solves meaningful problems instead of existing as another portfolio project |
 ---
 
 <div align="center">

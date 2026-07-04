@@ -21,20 +21,31 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-
-**Languages**
+Languages
 <br/>
 <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript,html&theme=dark"/>
 
 <br/><br/>
 
-**Frameworks & Backend**
+Frameworks & Backend
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark"/>
 
 <br/><br/>
 
-**Tools & Environment**
+Databases & Cloud
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,docker&theme=dark"/>
+
+<br/><br/>
+
+UI & Build Tools
+<br/>
+<img src="https://skillicons.dev/icons?i=tailwind,vite&theme=dark"/>
+
+<br/><br/>
+
+Tools & Environment
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode&theme=dark"/>
 

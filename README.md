@@ -21,33 +21,15 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-Languages
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript,html&theme=dark"/>
+Languages  |  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript,html&theme=dark&perline=6"/>
 
-<br/><br/>
+Frameworks & Backend  |  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark&perline=6"/>
 
-Frameworks & Backend
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark"/>
+Databases & Cloud  |  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,docker&theme=dark&perline=6"/>
 
-<br/><br/>
+UI & Build Tools  |  <img src="https://skillicons.dev/icons?i=tailwind,vite&theme=dark&perline=6"/>
 
-Databases & Cloud
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,docker&theme=dark"/>
-
-<br/><br/>
-
-UI & Build Tools
-<br/>
-<img src="https://skillicons.dev/icons?i=tailwind,vite&theme=dark"/>
-
-<br/><br/>
-
-Tools & Environment
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode&theme=dark"/>
+Tools & Environment  |  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode&theme=dark&perline=6"/>
 
 </div>
 

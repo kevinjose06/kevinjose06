@@ -44,12 +44,10 @@
   </tr>
 </table>
 </div>
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinjose06&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinjose06&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevinjose06&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevinjose06&theme=tokyonight"/>

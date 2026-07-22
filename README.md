@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td align="right"><b>Databases & Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,docker&theme=dark"/></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase,docker&theme=dark"/></td>
   </tr>
   <tr>
     <td align="right"><b>UI & Build</b></td>
